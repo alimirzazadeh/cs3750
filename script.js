@@ -3,7 +3,7 @@
 var colorPicker = new iro.ColorPicker(".colorPicker", {
   // color picker options
   // Option guide: https://iro.js.org/guide.html#color-picker-options
-  width: 280,
+  width: 140,
   color: "rgb(255, 0, 0)",
   borderWidth: 1,
   borderColor: "#fff" });
